@@ -167,7 +167,7 @@ const customLic=()=>{
 
 function createReadMe(){
     print("Writing File Now...")
-    fs.writeFile(`./YouNewReadMeFile/${title}.md`,`
+    fs.writeFile(`${title}.md`,`
     ${title},
     
     ${pickedLicense}
