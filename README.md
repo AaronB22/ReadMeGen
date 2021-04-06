@@ -7,4 +7,4 @@
 	Once you get in the folder location, type this command to run the app: "node index.js". If you do not have node.js, this program will not work. Go here to install node.js 'https://nodejs.org/en/'
 	
 	This video will show you how to use the program:
-		![How To Use](./HowToUse.gif)
+		![How To Use](HowToUse.gif)
