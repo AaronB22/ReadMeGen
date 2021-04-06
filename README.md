@@ -8,3 +8,5 @@
 	
 	This video will show you how to use the program:
 		![How To Use](HowToUse.gif)
+		
+		(Note, if video does not play, it is HowToUse.gif in the repo)
